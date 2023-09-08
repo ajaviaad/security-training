@@ -1,1 +1,2 @@
 # security-training
+This repository contains presentation on Information Security, tailor-made for security training initiatives. It seeks to equip attendees with the fundamental knowledge and principles of infosec, ensuring a robust understanding of the threats faced in today's digital landscape. This is an essential resource for those new to the field or looking to reinforce their security awareness.
